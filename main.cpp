@@ -14,4 +14,6 @@ int main(){
     c = (f - 32) * (5.0 / 9.0);
 
     cout << "\n A temperatura informada em graus Celsius é: " << c << endl;
+    
+    return 0;
 }
